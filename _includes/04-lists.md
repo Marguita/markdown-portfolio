@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+Lista spesa
+-----------
+Uova
+Latte
+Porro
+Peperoncini
+Limoni
+Zenzero
+Yogurt
+Gelati
+Birre
