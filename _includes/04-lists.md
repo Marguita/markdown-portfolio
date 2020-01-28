@@ -1,5 +1,3 @@
-Lista spesa
------------
 Uova
 Latte
 Porro
@@ -9,3 +7,5 @@ Zenzero
 Yogurt
 Gelati
 Birre
+Cioccolata
+Noccioline
